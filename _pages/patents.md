@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 ## International Registered Patents
---
+---
 1. **Jungmin Kwon**, Hyunggon Park,  
    “Method and Device for Data Transmission in V2I Network,”  
    US Patent, filed Aug. 25, 2020 (Application No. 17/002,301),  
@@ -25,7 +25,7 @@ nav_order: 5
 
 
 ## International Patent Applications
---
+---
 1. **Jungmin Kwon**, Chaeyeon Cha, Hyunggon Park,  
    “Lost Data Recovery Method and Apparatus using Parameter Transfer LSTM,”  
    PCT, Oct. 21, 2021 (Application No. PCT/KR2021/014824).
@@ -44,7 +44,7 @@ nav_order: 5
 
 
 ## Domestic Registered Patents
---
+---
 1. **Jungmin Kwon**, Chaeyeon Cha, Nayoung Kim, Daeun Jung, Hyunggon Park,  
    “Method and Apparatus for Predicting Demand for Public Goods Using Machine Learning Models,”  
    Korean Patent, filed Dec. 31, 2021 (Application No. 10-2021-0193835),  
@@ -112,7 +112,7 @@ nav_order: 5
 
 
 ## Domestic Patent Applications
---
+---
 1. **Jungmin Kwon**, Minhae Kwon, Hyunggon Park,  
    “감염병 모델 구축 방법 및 장치,”  
    Korean Patent, filed Apr. 17, 2025 (Application No. 10-2025-0050328).
