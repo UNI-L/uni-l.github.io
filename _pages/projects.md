@@ -30,6 +30,11 @@ nav_order: 4
   - Title: Integrated ADMET/PK Prediction Platform Powered by Agentic AI and Federated Learning
   - Health & Welfare and Ministry of Science and ICT
   - 2026.07.01 – 2028.02.28
+ 
+- **로보틱스 환경에서의 ROS 2 데이터 기반 실시간 이상 탐지 기법 연구**
+  - Title: Research on Real-Time Anomaly Detection Methods Using ROS 2 Data in Robotic Environments
+  - Kangwon National University
+  - 2026.04.01 – 2027.01.20
 
 - **6G Open RAN의 공동 설계를 위한 xHaul 네트워크의 인공지능형 제어 기술 개발과 가상 시뮬레이션 기반 검증**
   - Title: Development of Intelligent Control Technologies in xHaul Networks for 6G Open RAN Co-Design and Virtual Simulation-Based Verification
