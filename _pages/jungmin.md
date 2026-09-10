@@ -105,3 +105,36 @@ AI기초부터 네트워크 스택 전반에 걸친 응용까지, 한국통신�
 ## Refereeing
 - **Journals:** IEEE Transactions on Vehicular Technology, IEEE Journal on Selected Areas in Communications, IEEE Wireless Communications Magazine, IEEE Wireless Communications, IEEE Sensors Journal, IEEE Transactions on Intelligent Transportation Systems, Ad Hoc Networks, Knowledge-Based Systems
 - **Conferences:** NeurIPS, ICML, IEEE WCNC, ICTC, ICUFN, ICAIIC
+
+
+<style>
+.profile-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-bottom: 35px;
+}
+
+.profile-photo {
+  width: 220px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+.profile-info {
+  flex: 1;
+  padding-top: 5px;
+}
+
+@media (max-width: 700px) {
+  .profile-row {
+    flex-direction: column;
+  }
+
+  .profile-photo {
+    width: 180px;
+  }
+}
+</style>
