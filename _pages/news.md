@@ -8,7 +8,7 @@ permalink: /news/
 ## 2026
 
 
-**Jun.** Dahae Lee received the **Excellent Paper Award** at the **KICS Summer Conference**. Congratulations! 
+**Jun.** Dahae Lee received the **Best Paper Award** at the **KICS Summer Conference**. Congratulations! 
 
 **Jun.** Our research papers were presented at the **KICS Summer Conference**.
 
