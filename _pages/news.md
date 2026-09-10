@@ -5,11 +5,17 @@ permalink: /news/
 ---
 
 {% include news.liquid %}
+## 2026
+
+
+**Jun.** Dahae Lee received the **Excellent Paper Award** at the **KICS Summer Conference**. Congratulations! 
+**Jun.** Our research papers were presented at the **KICS Summer Conference**.
+
 ## 2025
 
-**Dec.** Prof. Jungmin Kwon was selected as a participant for the **17th HOPE Meeting**, providing an opportunity to meet Nobel Laureates and share her research in Tsukuba, Japan.
+**Dec.** Prof. Jungmin Kwon was selected as a participant for the **17th HOPE Meeting**, providing an opportunity to meet Nobel Laureates and share her research in Tsukuba, Japan. Congratulations! 
 
-**Nov.** "Efficient and Resilient Packet Recovery for Federated Learning via Approximation" was accepted in **IEEE Transactions on Mobile Computing** <span style="color:red;">(IF: 9.2, Rank: 9/258, Top 3.5%)</span>.
+**Nov.** "Efficient and Resilient Packet Recovery for Federated Learning via Approximation" was accepted in **IEEE Transactions on Mobile Computing** <span style="color:red;">(IF: 9.2, Rank: 9/258, Top 3.5%)</span>. Congratulations! 
 
 **Sep.** Prof. Jungmin Kwon joined the Department of Electrical and Electronic Engineering at **Kangwon National University** as an Assistant Professor.
 
@@ -17,7 +23,7 @@ permalink: /news/
 
 **Apr.** "Comparative Analysis of Network Coding Techniques to Mitigate Performance Degradation in Centralized Federated Learning under Packet Loss" was presented at **JCCI 2025**.
 
-**Feb.** Prof. Jungmin Kwon's research project was selected for the **Sejong Science Fellowship**, supported by the Ministry of Science and ICT.
+**Feb.** Prof. Jungmin Kwon's research project was selected for the **Sejong Science Fellowship**, supported by the Ministry of Science and ICT. Congratulations! 
 
 **Jan.** "Stochastic Approximate Inference of Latent Information in Epidemic Model: A Data-Driven Approach" was accepted in **Signal Processing**.
 
