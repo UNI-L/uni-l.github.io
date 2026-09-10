@@ -1,28 +1,32 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
+permalink: /members/
+title: Members
 description: members of the lab or group
 nav: true
-nav_order: 7
+nav_order: 2
+---
 
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+# Principal Investigator
+
+<div class="member">
+
+<img src="/assets/img/prof_pic.jpg" width="180">
+
+<div class="member-info">
+
+### Jungmin Kwon, Ph.D.
+
+Assistant Professor  
+Department of Electrical and Electronic Engineering  
+Kangwon National University  
+
+**Research Interests**  
+Federated Learning, Agentic AI, Network Intelligence, AI-RAN, Network Foundation Models
+
+Email: xxx@kangwon.ac.kr
+
+</div>
+</div>
+
 ---
