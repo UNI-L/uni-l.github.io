@@ -12,6 +12,8 @@ permalink: /news/
 
 **Jun.** Our research papers were presented at the **KICS Summer Conference**.
 
+**Apr.** Our research papers were presented at the **JCCI 2026**.
+
 ## 2025
 
 **Dec.** Prof. Jungmin Kwon was selected as a participant for the **17th HOPE Meeting**, providing an opportunity to meet Nobel Laureates and share her research in Tsukuba, Japan. Congratulations! 
