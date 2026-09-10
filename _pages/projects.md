@@ -8,17 +8,12 @@ nav_order: 4
 
 #### Research Topics
 
-##### Federated and Collaborative AI
-
-##### Agentic AI and Multi-Agent Systems
-
-##### AI-Native Network Intelligence
-
-##### AI-RAN and 6G Networks
-
-##### Network Foundation Models
-
-##### AI-based Anomaly Detection
+- Federated and Collaborative AI
+- Agentic AI and Multi-Agent Systems
+- AI-Native Network Intelligence
+- AI-RAN and 6G Networks
+- Network Foundation Models
+- AI-based Anomaly Detection
 
 
 ---
