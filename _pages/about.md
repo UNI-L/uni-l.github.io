@@ -6,7 +6,7 @@ subtitle: Ultimate Network Intelligence Lab.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: unil_image.jpg
   image_circular: false
   more_info: >
     <p>Engineering Building 5, Room 514-2</p>
