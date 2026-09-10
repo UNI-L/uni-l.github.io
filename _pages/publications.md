@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 ## International Journals
-
+---
 1. Jonghoon Park*, Dongyong Choi*, Kabseok Ko, Kuduck Kwon, **Jungmin Kwon**, In-Chul Hwang, and Seungyoung Park,  
    "Batch Bayesian Optimization for Minimizing IPN in RF PLLs,"  
    *Journal of Semiconductor Technology and Science*, accepted for publication.  
@@ -31,7 +31,7 @@ nav_order: 3
 
 
 ## International Conferences
-
+---
 1. Dayoung Choi, Siyoun Park, **Jungmin Kwon**, and Hyunggon Park,  
    "Few Features are Enough: Communication-Efficient AI-RAN,"  
    *Conference on Neural Information Processing Systems (NeurIPS 2025), AI and ML for Next-Generation Wireless Communications and Networking (AI4NextG)*, Dec. 2025.
@@ -102,7 +102,7 @@ nav_order: 3
 
 
 ## Domestic Journals
-
+---
 1. **Jungmin Kwon**, Hyunggon Park,  
    "Data Driven Reliable Dissemination Strategy Based Systematic Network Coding in V2I Networks,"  
    *Journal of the Korean Institute of Communications and Information Sciences*, vol. 45, no. 2, pp. 327–336, 2020.
@@ -113,7 +113,7 @@ nav_order: 3
 
 
 ## Domestic Conferences
-
+---
 1. 한수현, **권정민**,  
    "대규모 언어 모델 기반 연합학습에서 저랭크 근사 기반 모델 압축을 통한 통신 효율 개선,"  
    제36회 통신정보 합동학술대회, 2026년 4월.
