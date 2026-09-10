@@ -1,65 +1,45 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 4
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+#### Research Topics
 
-{% else %}
+##### Federated and Collaborative AI
 
-<!-- Display projects without categories -->
+##### Agentic AI and Multi-Agent Systems
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+##### AI-Native Network Intelligence
 
-  <!-- Generate cards for each project -->
+##### AI-RAN and 6G Networks
 
-{% if page.horizontal %}
+##### Network Foundation Models
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+##### AI-based Anomaly Detection
+
+
+---
+
+#### Active Research Grants
+
+
+- **Agentic AI 및 연합학습 기반 ADMET/PK 통합 예측 플랫폼 개발**
+  - Title: Integrated ADMET/PK Prediction Platform Powered by Agentic AI and Federated Learning
+  - Health & Welfare and Ministry of Science and ICT
+  - 2026.07.01 – 2028.02.28
+
+- **6G Open RAN의 공동 설계를 위한 xHaul 네트워크의 인공지능형 제어 기술 개발과 가상 시뮬레이션 기반 검증**
+  - Title: Development of Intelligent Control Technologies in xHaul Networks for 6G Open RAN Co-Design and Virtual Simulation-Based Verification
+  - Sejong Science Fellowship
+  - National Research Foundation of Korea (NRF)
+  - 2025.03.01 – 2030.02.28
+
+
+---
+
+#### Completed Research Grants
+
+To be updated.
