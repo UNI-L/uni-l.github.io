@@ -63,6 +63,17 @@ Advisor: [Prof. Hyunggon Park] (https://mcnl.ewha.ac.kr/mcnl/professor.do)
 Ewha Womans University, Fall 2020, Fall 2023  
 Communication Laboratory (Undergraduate) - class 1, class 2
 
+**Visiting Ph.D. Student**  
+Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne, Switzerland, 2018
+Signal Processing Laboratory LTS4, Electrical Engineering
+Advisor: [Professor Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/)
+
+**Visiting Ph.D. Student**  
+University of Cambridge, Cambridge, United Kingdom, 2020  
+Machine Learning and Artificial Intelligence for Medicine Group  
+Advisor: [Professor Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/)
+
+## Education
 
 **Ph.D. in Electronic and Electrical Engineering**  
 Ewha Womans University, Aug. 2024  
@@ -79,15 +90,6 @@ Thesis: *Matrix Decomposition based Low Complexity Algorithms for Network Coding
 **B.S. in Electronic Engineering**  
 Ewha Womans University, Feb. 2015  
 
-**Visiting Ph.D. Student**  
-Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne, Switzerland, 2018
-Signal Processing Laboratory LTS4, Electrical Engineering
-Advisor: [Professor Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/)
-
-**Visiting Ph.D. Student**  
-University of Cambridge, Cambridge, United Kingdom, 2020  
-Machine Learning and Artificial Intelligence for Medicine Group  
-Advisor: [Professor Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/)
 
 ## Honors & Awards
 
