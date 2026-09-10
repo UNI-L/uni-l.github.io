@@ -42,4 +42,14 @@ nav_order: 4
 
 #### Completed Research Grants
 
-To be updated.
+- **적응적 데이터 근사 및 전송 전략 연구**
+  - Title: Study on Adaptive Strategies for Data Approximation and Transmission
+  - Japan HOPE Meeting
+  - National Research Foundation of Korea (NRF)
+  - 2026.03
+
+- **초다수 연결 엣지 컴퓨팅 환경에서 차원 축소 저복잡도 네트워크 코딩 기반 네트워크 구성 연구**
+  - Title: Research on network configuration using dimensionality reduction based on low complexity network coding in massive connectivity edge computing
+  - Korean-Swiss Young Researchers' Exchange Programme
+  - National Research Foundation of Korea (NRF)
+  - 2018.03.01 - 2019.02.28
