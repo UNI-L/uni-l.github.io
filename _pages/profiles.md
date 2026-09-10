@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Members
 permalink: /members/
 nav: true
 nav_order: 2
