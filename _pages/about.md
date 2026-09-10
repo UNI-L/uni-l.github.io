@@ -13,7 +13,6 @@ profile:
 selected_papers: false
 social: false
 
----
 announcements:
   enabled: true
   scrollable: true
