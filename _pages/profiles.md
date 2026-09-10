@@ -1,8 +1,7 @@
 ---
-layout: profiles
+layout: page
 permalink: /members/
 title: Members
-description: members of the lab or group
 nav: true
 nav_order: 2
 ---
@@ -14,16 +13,21 @@ nav_order: 2
 
   <div class="member-info">
     <h3>
-      <a href="/members/jungmin-kwon/">Jungmin Kwon, Ph.D.</h3>
+      <a href="/members/jungmin-kwon/">Jungmin Kwon, Ph.D.</a>
+    </h3>
+
     <p>
-      Email: jungmin DOT kwon AT kangwon DOT ac DOT kr
       Assistant Professor<br>
       Department of Electrical and Electronic Engineering<br>
       Kangwon National University
+    </p>
 
+    <p>
+      <strong>Email:</strong> jungmin DOT kwon AT kangwon DOT ac DOT kr
     </p>
   </div>
 </div>
+
 
 <h2>Students</h2>
 
@@ -31,11 +35,12 @@ nav_order: 2
   <img src="/assets/img/suhyun.png" class="member-photo">
 
   <div class="member-info">
-    <h3>Suhyun Han, B.S./M.S. student</h3>
+    <h3>Suhyun Han</h3>
 
     <p>
-      Email: suhyun9162 AT kangwon DOT ac DOT kr
-      Research topic: Federated Learning, AI for Networks
+      B.S./M.S. Student<br>
+      <strong>Email:</strong> suhyun9162 AT kangwon DOT ac DOT kr<br>
+      <strong>Research Interests:</strong> Federated Learning, AI for Networks
     </p>
   </div>
 </div>
@@ -45,25 +50,63 @@ nav_order: 2
   <img src="/assets/img/dahae.png" class="member-photo">
 
   <div class="member-info">
-    <h3>Dahae Lee, B.S./M.S. student</h3>
+    <h3>Dahae Lee</h3>
 
     <p>
-      Email: dahae DOT lee AT kangwon DOT ac DOT kr
-      Research topic: Anomaly Detection, Time-Series Analysis
+      B.S./M.S. Student<br>
+      <strong>Email:</strong> dahae DOT lee AT kangwon DOT ac DOT kr<br>
+      <strong>Research Interests:</strong> Anomaly Detection, Time-Series Analysis
     </p>
   </div>
 </div>
-
 
 
 <div class="member-row">
 
   <div class="member-info">
-    <h3>Jeonguk Ahn, Undergraduate Researcher</h3>
+    <h3>Jeonguk Ahn</h3>
 
     <p>
-      Email: nmn2580 AT kangwon DOT ac DOT kr
-      Research topic: Agentic AI, Adaptive Model Selection
+      Undergraduate Researcher<br>
+      <strong>Email:</strong> nmn2580 AT kangwon DOT ac DOT kr<br>
+      <strong>Research Interests:</strong> Agentic AI, Adaptive Model Selection
     </p>
   </div>
 </div>
+
+
+<style>
+.member-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin: 30px 0 50px 0;
+}
+
+.member-photo {
+  width: 170px;
+  height: 210px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.member-info {
+  flex: 1;
+  padding-top: 5px;
+}
+
+.member-info h3 {
+  margin-top: 0;
+}
+
+.member-info h3 a {
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+  .member-row {
+    flex-direction: column;
+  }
+}
+</style>
