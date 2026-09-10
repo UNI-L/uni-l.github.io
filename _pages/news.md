@@ -9,7 +9,7 @@ permalink: /news/
 
 **Dec.** Prof. Jungmin Kwon was selected as a participant for the **17th HOPE Meeting**, providing an opportunity to meet Nobel Laureates and share her research in Tsukuba, Japan.
 
-**Nov.** "Efficient and Resilient Packet Recovery for Federated Learning via Approximation" was accepted in **IEEE Transactions on Mobile Computing**.
+**Nov.** "Efficient and Resilient Packet Recovery for Federated Learning via Approximation" was accepted in **IEEE Transactions on Mobile Computing** <span style="color:red;">(IF: 9.2, Rank: 9/258, Top 3.5%)</span>.
 
 **Sep.** Prof. Jungmin Kwon joined the Department of Electrical and Electronic Engineering at **Kangwon National University** as an Assistant Professor.
 
