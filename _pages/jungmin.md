@@ -79,7 +79,7 @@ Thesis: *Matrix Decomposition based Low Complexity Algorithms for Network Coding
 **B.S. in Electronic Engineering**  
 Ewha Womans University, Feb. 2015  
 
-**Visiting Graduate Student**  
+**Visiting Ph.D. Student**  
 Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne, Switzerland, 2018
 Signal Processing Laboratory LTS4, Electrical Engineering
 Advisor: [Professor Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/)
