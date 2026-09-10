@@ -7,26 +7,36 @@ nav: true
 nav_order: 2
 ---
 
-# Principal Investigator
+<h2>Principal Investigator</h2>
 
-<div class="member">
+<div class="member-row">
+  <img src="/assets/img/prof_pic.jpg" class="member-photo">
 
-<img src="/assets/img/prof_pic.jpg" width="180">
+  <div class="member-info">
+    <h3>
+      <a href="/members/jungmin-kwon/">Jungmin Kwon, Ph.D.</h3>
+    <p>
+      Email: jungmin DOT kwon AT kangwon DOT ac DOT kr
+      Assistant Professor<br>
+      Department of Electrical and Electronic Engineering<br>
+      Kangwon National University
 
-<div class="member-info">
-
-### Jungmin Kwon, Ph.D.
-
-Assistant Professor  
-Department of Electrical and Electronic Engineering  
-Kangwon National University  
-
-**Research Interests**  
-Federated Learning, Agentic AI, Network Intelligence, AI-RAN, Network Foundation Models
-
-Email: xxx@kangwon.ac.kr
-
-</div>
+    </p>
+  </div>
 </div>
 
----
+<h2>Students</h2>
+
+<div class="member-row">
+  <img src="/assets/img/student1.jpg" class="member-photo">
+
+  <div class="member-info">
+    <h3>Student Name</h3>
+    <p>M.S. Student</p>
+
+    <p>
+      <strong>Research Interests:</strong><br>
+      Federated Learning, AI for Networks
+    </p>
+  </div>
+</div>
