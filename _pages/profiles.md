@@ -28,15 +28,42 @@ nav_order: 2
 <h2>Students</h2>
 
 <div class="member-row">
-  <img src="/assets/img/student1.jpg" class="member-photo">
+  <img src="/assets/img/suhyun.png" class="member-photo">
 
   <div class="member-info">
-    <h3>Student Name</h3>
-    <p>M.S. Student</p>
+    <h3>Suhyun Han, B.S./M.S. student</h3>
 
     <p>
-      <strong>Research Interests:</strong><br>
-      Federated Learning, AI for Networks
+      Email: suhyun9162 AT kangwon DOT ac DOT kr
+      Research topic: Federated Learning, AI for Networks
+    </p>
+  </div>
+</div>
+
+
+<div class="member-row">
+  <img src="/assets/img/dahae.png" class="member-photo">
+
+  <div class="member-info">
+    <h3>Dahae Lee, B.S./M.S. student</h3>
+
+    <p>
+      Email: dahae DOT lee AT kangwon DOT ac DOT kr
+      Research topic: Anomaly Detection, Time-Series Analysis
+    </p>
+  </div>
+</div>
+
+
+
+<div class="member-row">
+
+  <div class="member-info">
+    <h3>Jeonguk Ahn, Undergraduate Researcher</h3>
+
+    <p>
+      Email: nmn2580 AT kangwon DOT ac DOT kr
+      Research topic: Agentic AI, Adaptive Model Selection
     </p>
   </div>
 </div>
