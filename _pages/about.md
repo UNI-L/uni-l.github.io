@@ -29,28 +29,21 @@ latest_posts:
 ---
 
 <p>
-  The Ultimate Network Intelligence Lab. (UNI.L) is led by
-  Prof. Jungmin Kwon in the Department of Electrical and Electronic
-  Engineering at Kangwon National University.
+The Ultimate Network Intelligence Lab. (UNI.L), led by Prof. Jungmin Kwon, 
+  conducts research at the intersection of artificial intelligence, distributed learning, and next-generation communication networks.
 </p>
 
 <p>
-  Our research focuses on intelligent, efficient, and reliable
-  learning and communication systems for next-generation networks.
+Our research focuses on developing intelligent and collaborative AI systems that can learn, adapt, and make decisions across distributed network environments. We are particularly interested in federated and decentralized learning, agentic AI, and AI-native network intelligence, with applications to next-generation networks such as AI-RAN and 6G systems.
 </p>
 
-<p>
-  Our research interests include federated learning, decentralized
-  learning, network intelligence, AI-RAN, agentic AI, network coding,
-  and AI-based anomaly detection.
-</p>
 
 <h2>Research Areas</h2>
 
 <ul>
-  <li>Federated and Decentralized Learning</li>
-  <li>AI for Next-Generation Networks</li>
-  <li>AI-RAN and Network Intelligence</li>
-  <li>Agentic AI and Collaborative Intelligence</li>
+  <li>Federated and Collaborative AI</li>
+  <li>Agentic AI and Multi-Agent Systems</li>
+  <li>AI-Native Network Intelligence</li>
+  <li>AI-RAN and 6G Networks</li>
   <li>AI-based Anomaly Detection</li>
 </ul>
