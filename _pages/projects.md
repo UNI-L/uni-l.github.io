@@ -31,8 +31,8 @@ nav_order: 4
   - Health & Welfare and Ministry of Science and ICT
   - 2026.07.01 – 2028.02.28
  
-- **로보틱스 환경에서의 ROS 2 데이터 기반 실시간 이상 탐지 기법 연구**
-  - Title: Research on Real-Time Anomaly Detection Methods Using ROS 2 Data in Robotic Environments
+- **로보틱스 환경에서의 ROS2 데이터 기반 실시간 이상 탐지 기법 연구**
+  - Title: Research on Real-Time Anomaly Detection Methods Using ROS2 Data in Robotic Environments
   - Kangwon National University
   - 2026.04.01 – 2027.01.20
 
