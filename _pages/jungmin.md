@@ -49,23 +49,35 @@ and next-generation communication networks, with a focus on federated and collab
 ## Experience & Education
 
 **Assistant Professor**  
-Department of Electrical and Electronic Engineering  
+Department of Electrical and Electronic Engineering, Sep. 2025 – Present
 Kangwon National University, South Korea  
-Sep. 2025 – Present
+
 
 **Postdoctoral Researcher**  
-Department of Electronic and Electrical Engineering  
+Department of Electronic and Electrical Engineering, Sep. 2024 – Aug. 2025
 Ewha Womans University, South Korea  
-Sep. 2024 – Aug. 2025
+Advisor: [Prof. Hyunggon Park] (https://mcnl.ewha.ac.kr/mcnl/professor.do)  
+
 
 **Lecturer**  
 Ewha Womans University, Fall 2020, Fall 2023  
 Communication Laboratory (Undergraduate) - class 1, class 2
 
-**M.S. in Electronic and Electrical Engineering**  
-Ewha Womans University, 2017  
-Advisor: Prof. Hyunggon Park  
-Dissertation: *Matrix Decomposition based Low Complexity Algorithms for Network Coding*
+
+**Ph.D. in Electronic and Electrical Engineering**  
+Ewha Womans University, Aug. 2024  
+Advisor: [Prof. Hyunggon Park] (https://mcnl.ewha.ac.kr/mcnl/professor.do)  
+Dissertation: *Approximate Strategies for Data Recovery and Transmission in Unstable Communication Networks*
+
+
+**M.S. in Electronic Engineering**  
+Ewha Womans University, Feb. 2017  
+Advisor: [Prof. Hyunggon Park] (https://mcnl.ewha.ac.kr/mcnl/professor.do)  
+Thesis: *Matrix Decomposition based Low Complexity Algorithms for Network Coding*
+
+
+**B.S. in Electronic Engineering**  
+Ewha Womans University, Feb. 2015  
 
 **Visiting Graduate Student**  
 Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne, Switzerland, 2018
