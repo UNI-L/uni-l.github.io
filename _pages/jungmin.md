@@ -7,10 +7,9 @@ nav: false
 
 <div class="profile-row">
 
-  <img src="/assets/img/jungmin_kwon.jpg" class="profile-photo">
+  <img src="/assets/img/prof_pic.jpg" class="profile-photo">
 
   <div class="profile-info">
-    <h2>Jungmin Kwon, Ph.D.</h2>
 
     <p>
       Assistant Professor<br>
@@ -29,8 +28,6 @@ nav: false
 
 ## Biography
 
-## Biography
-
 **Jungmin Kwon** is an Assistant Professor in the Department of Electrical and Electronic Engineering at Kangwon National University, Chuncheon-si, Republic of Korea.
 Prior to joining Kangwon National University, she was a postdoctoral researcher in the Department of Electronic and Electrical Engineering at Ewha Womans University, Seoul, Republic of Korea.
 
@@ -46,7 +43,7 @@ the Qualcomm Innovation Award, and the WISET-KICS Young Female Researcher Award.
 Her research interests lie at the intersection of artificial intelligence, distributed learning, 
 and next-generation communication networks, with a focus on federated and collaborative AI, agentic AI, AI-native network intelligence, AI-RAN and 6G networks, and network foundation models.
 
-## Experience & Education
+## Experience
 
 **Assistant Professor**  
 Department of Electrical and Electronic Engineering, Sep. 2025 – Present
