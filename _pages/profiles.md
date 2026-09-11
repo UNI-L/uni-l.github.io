@@ -75,6 +75,20 @@ nav_order: 2
 </div>
 
 
+<h2>Alumni</h2>
+
+<h4>Undergraduate Research Assistants</h4>
+
+<p>
+  Jaeheen Yi (Jul. 2026 – Aug. 2026)<br>
+  Doyoung Jeong (Jul. 2026 – Aug. 2026)<br>
+  Sangkyun Jeong (Jul. 2026 – Aug. 2026)
+  Youngseo Hwang (Nov. 2025 – Apr. 2026)<br>
+</p>
+
+
+
+
 <style>
 .member-row {
   display: flex;
