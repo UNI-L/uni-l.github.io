@@ -82,7 +82,7 @@ nav_order: 2
 <p>
   Jaeheen Yi (Jul. 2026 – Aug. 2026)<br>
   Doyoung Jeong (Jul. 2026 – Aug. 2026)<br>
-  Sangkyun Jeong (Jul. 2026 – Aug. 2026)
+  Sangkyun Jeong (Jul. 2026 – Aug. 2026)<br>
   Youngseo Hwang (Nov. 2025 – Apr. 2026)<br>
 </p>
 
