@@ -78,16 +78,18 @@ nav: false
 </section>
 <hr>
 
-
 <section>
-  <h2>Latest News</h2>
+  <div class="section-header">
+    <h2>Latest News</h2>
+    <a href="/news/" class="view-all">View all news →</a>
+  </div>
 
   <div class="news">
     {% assign news = site.news | sort: "date" | reverse %}
 
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-        {% for item in news limit:4 %}
+        {% for item in news limit:5 %}
           <tr>
             <th scope="row" style="width: 130px;">
               {{ item.date | date: "%b %d, %Y" }}
@@ -104,10 +106,6 @@ nav: false
       </table>
     </div>
   </div>
-
-  <p class="view-all">
-    <a href="/news/">View all news →</a>
-  </p>
 </section>
 
 
@@ -264,10 +262,23 @@ nav: false
   }
 }
 
-.view-all {
-  text-align: right;
-  margin-top: 10px;
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
 }
+
+.section-header h2 {
+  margin: 0;
+}
+
+.section-header .view-all {
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+  
 
 .home-footer {
   display: flex;
