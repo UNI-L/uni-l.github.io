@@ -31,78 +31,112 @@ nav_order: 4
 
 ## Domestic Registered Patents
 ---
-1. **Jungmin Kwon**, Chaeyeon Cha, Nayoung Kim, Daeun Jung, Hyunggon Park,  
-   “Method and Apparatus for Predicting Demand for Public Goods Using Machine Learning Models,”  
-   Korean Patent, filed Dec. 31, 2021 (Application No. 10-2021-0193835),  
-   issued Nov. 18, 2024 (Patent No. 10-2732984).
 
-2. **Jungmin Kwon**, Chaeyeon Cha, Hyunggon Park,  
-   “Lost Data Recovery Method and Apparatus using Parameter Transfer LSTM,”  
-   Korean Patent, filed Nov. 13, 2020 (Application No. 10-2020-0152145),  
-   issued Mar. 17, 2022 (Patent No. 10-2377474).
+1. 권정민, 박형곤, 차채연, 김나영, 정다은, "머신러닝 모델을 이용한 공공재의 수요 예측 방법 및 장치," 국내특허출원 및 등록, 2021.12.31 (출원번호: 10-2021-0193835), 2024.11.18 (등록번호: 10-2732984)
 
-3. **Jungmin Kwon**, Hyunggon Park,  
-   “Efficient and Reliable Data Dissemination System between Handovers in V2I Networks,”  
-   Korean Patent, filed Nov. 26, 2019 (Application No. 10-2019-0153406),  
-   issued Apr. 2, 2021 (Patent No. 10-2238018).
+1. 권정민, 박형곤, 차채연, "파라미터 전이 LSTM을 이용한 손실 데이터 복구방법 및 장치," 국내특허출원 및 등록, 2020.11.13 (출원번호: 10-2020-0152145), 2022.03.17 (등록번호: 10-2377474)
 
-4. **Jungmin Kwon**, Hyunggon Park,  
-   “High Fidelity Data Dissemination Method based on the Predicted Amount of Data Information in V2I Networks,”  
-   Korean Patent, filed Nov. 26, 2019 (Application No. 10-2019-0153440),  
-   issued Mar. 3, 2021 (Patent No. 10-2226794).
+1. 권정민, 박형곤, "V2I 네트워크의 핸드오버 구간에서 데이터를 효율적으로 송신하기 위한 방법 및 장치," 국내특허출원 및 등록, 2019.11.26 (출원번호: 10-2019-0153406), 2021.4.2 (등록번호: 10-2238018)
 
-5. **Jungmin Kwon**, Hyunggon Park,  
-   “Apparatus and Method for Network Encoding based on Low Complexity Algorithms for Network Coding using Matrix Decomposition,”  
-   Korean Patent, filed May 12, 2017 (Application No. 10-2017-0059396),  
-   issued Dec. 26, 2018 (Patent No. 10-1934638).
+1. 권정민, 박형곤, "V2I 네트워크에서 예측된 데이터 양에 따른 고신뢰도 데이터 송신 방법 및 장치," 국내특허출원 및 등록, 2019.11.26 (출원번호: 10-2019-0153440), 2021.3.5 (등록번호: 10-2226794)
 
-6. **Jungmin Kwon**, Hyunggon Park,  
-   “Apparatus and Method for Network Encoding and Decoding based on Low Complexity Algorithms for Network Coding using Singular Value Decomposition,”  
-   Korean Patent, filed Jun. 22, 2017 (Application No. 10-2017-0079210),  
-   issued Jul. 2, 2018 (Patent No. 10-1876130).
+1. 권정민, 박형곤, "행렬 분해를 이용한 저복잡 네트워크 코딩에 기초하는 네트워크 인코딩 장치 및 방법," 국내특허출원 및 등록, 2017.5.12 (출원번호: 10-2017-0059396), 2018.12.26 (등록번호: 10-1934638)
 
-7. **Jungmin Kwon**, Hyunggon Park, Yunji Park, Yongjin Jeong, Seongsung Yoon, Sunwoo Cho,  
-   “Apparatus and Method for Network Encoding based on Low Complexity Algorithms for Network Coding using Unitary Hessenberg Matrix,”  
-   Korean Patent, filed Jun. 22, 2017 (Application No. 10-2017-0079244),  
-   issued Jul. 2, 2018 (Patent No. 10-1876131).
+1. 권정민, 박형곤, 박윤지, 정용진, 강성윤, 조선우, "Unitary Hessenberg Matrix를 이용한 저복잡 네트워크 코딩에 기초하는 네트워크 인코딩 장치 및 방법," 국내특허출원 및 등록, 2017.6.22 (출원번호: 10-2017-0079244), 2018.7.2 (등록번호: 10-1876131)
 
-8. **Jungmin Kwon**, Hyunggon Park, Minhae Kwon, Sanghee Park, Jungmin Park, Minju Kim,  
-   “Apparatus and Method for Encoding or Decoding a Transmission Packet Including Parity,”  
-   Korean Patent, filed Mar. 7, 2016 (Application No. 10-2016-0026924),  
-   issued Nov. 1, 2017 (Patent No. 10-1795217).
+1. 권정민, 박형곤, "특이값 분해를 이용한 저복잡 네트워크 코딩에 기초하는 네트워크 인코딩 장치 및 방법, 그리고 네트워크 디코딩 장치 및 방법," 국내특허출원 및 등록, 2017.6.22 (출원번호: 10-2017-0079210), 2018.7.2 (등록번호: 10-1876130)
 
-9. **Jungmin Kwon**, Hyunggon Park, Minhae Kwon, Hyunji Na, Yujeong Lee,  
-   “Apparatus and Method for Encoding or Decoding a Message,”  
-   Korean Patent, filed Mar. 7, 2016 (Application No. 10-2016-0026907),  
-   issued Nov. 1, 2017 (Patent No. 10-1795216).
+1. 권정민, 박형곤, 권민혜, 박상희, 박정민, 김민주, "패리티가 포함된 전송 패킷을 인코딩 또는 디코딩하는 장치 및 방법," 국내특허출원 및 등록, 2016.3.7 (출원번호: 10-2016-0026924), 2017.11.01 (등록번호: 10-1795217)
 
-10. **Jungmin Kwon**, Hyunggon Park, Minhae Kwon,  
-    “System for High Resolution Live Broadcasting based on Network Coding,”  
-    Korean Patent, filed Jun. 23, 2015 (Application No. 10-2015-0089363),  
-    issued Jul. 22, 2016 (Patent No. 10-1643848).
+1. 권정민, 박형곤, 권민혜, 나현지, 이유정, "메시지를 인코딩 또는 디코딩하는 장치 및 방법," 국내특허출원 및 등록, 2016.3.7 (출원번호: 10-2016-0026907), 2017.11.01 (등록번호: 10-1795216)
 
-11. **Jungmin Kwon**, Hyunggon Park, Byungchul Park, Minhae Kwon,  
-    “TCP based Network Routers Supporting Network Coding and TCP based Data Streaming System using Network Coding,”  
-    Korean Patent, filed Jan. 9, 2015 (Application No. 10-2015-0003653),  
-    issued Jan. 19, 2016 (Patent No. 10-1588549).
+1. 권정민, 박형곤, 권민혜, "네트워크 코딩 기반의 고화질 실시간 방송시스템," 국내특허출원 및 등록, 2015.6.23 (출원번호: 10-2015-0089363), 2016.7.22 (등록번호: 10-1643848)
 
-12. **Jungmin Kwon**, Hyunggon Park, Minhae Kwon,  
-    “Sensor Node and Data Transmission Method of Sensor Node, Sink Node and Data Transmission Method of Sink Node,”  
-    Korean Patent, filed Mar. 14, 2014 (Application No. 10-2014-0030594),  
-    issued Oct. 28, 2015 (Patent No. 10-1565685).
+1. 권정민, 박형곤, 박병철, 권민혜, "네트워크 코딩을 구현할 수 있는 TCP 기반 네트워크 라우팅 노드 및 네트워크 코딩을 구현하는 TCP 기반 데이터 스트리밍 시스템," 국내특허출원 및 등록, 2015.1.9 (출원번호: 10-2015-0003653), 2016.1.19 (등록번호: 10-1588549)
 
-13. **Jungmin Kwon**, Hyunggon Park, Minhae Kwon, Soonyoung Kim, Minji Lee, Yeseul Jo,  
-    “Method for Propagating Network Management Data for Energy-Efficient IoT Network Management and Energy-Efficient IoT Node Apparatus,”  
-    Korean Patent, filed Jun. 24, 2014 (Application No. 10-2014-0077225),  
-    issued Sep. 17, 2015 (Patent No. 10-1555315).
+1. 권정민, 박형곤, 권민혜, "센서 노드 및 센서 노드의 데이터 전송 방법, 싱크 노드 및 싱크 노드의 데이터 전송 방법," 국내특허출원 및 등록, 2014.3.14 (출원번호: 10-2014-0030594), 2015.10.28 (등록번호: 10-1565685)
+
+1. 권정민, 박형곤, 권민혜, 김순영, 이민지, 조예슬, "저전력 사물 인터넷 네트워크 관리를 위한 네트워크 관리 데이터 전파 방법 및 저전력 사물 인터넷 노드 장치," 국내특허출원 및 등록, 2014.6.24 (출원번호: 10-2014-0077225), 2015.9.17 (등록번호: 10-1555315)
 
 
 ## Domestic Patent Applications
 ---
-1. **Jungmin Kwon**, Minhae Kwon, Hyunggon Park,  
-   “감염병 모델 구축 방법 및 장치,”  
-   Korean Patent, filed Apr. 17, 2025 (Application No. 10-2025-0050328).
 
-2. **Jungmin Kwon**, Hyunggon Park,  
-   “Terminal, Server and Method for Transceiving Data for Federated Learning,”  
-   Korean Patent, filed Jul. 15, 2024 (Application No. 2-2004-008330-1).
+1. 권정민, 박형곤, 권민혜, "감염병 모델 구축 방법 및 장치," 국내특허출원, 2025.04.17 (출원번호: 10-2025-0050328)
+
+1. 권정민, 박형곤, "단말, 서버 및 연합 학습을 위한 데이터 송수신 방법," 국내특허출원, 2024.7.15 (출원번호: 10-2024-0093252)
+
+
+
+## Software Registrations
+---
+
+1. 권정민, 차채연, 박형곤, "데이터 상관도를 이용한 순방향 및 역방향 파라미터 전이 장단기 메모리 방식기반 예측 방법," 등록번호: C-2020-037046 (2020년 10월 20일)
+
+1. 권정민, 차채연, 박형곤, "양방향 장단기 메모리 방식을 이용한 도로 속도 예측 시뮬레이터," 등록번호: C-2020-037140 (2020년 10월 20일)
+
+1. 권정민, 차채연, 박형곤, "게이트 순환 유닛 방식을 이용한 도로 속도 예측 시뮬레이터," 등록번호: C-2020-037141 (2020년 10월 20일)
+
+1. 권정민, 차채연, 박형곤, "합성곱 장단기 메모리 방식을 이용한 도로 속도 예측 시뮬레이터," 등록번호: C-2020-037142 (2020년 10월 20일)
+
+1. 권정민, 차채연, 박형곤, "순방향 파라미터 전이 장단기 메모리 방식을 이용한 도로 속도 예측 시뮬레이터," 등록번호: C-2020-037143 (2020년 10월 20일)
+
+1. 권정민, 차채연, 박형곤, "순방향 및 역방향 파라미터 전이 장단기 메모리 방식을 이용한 도로 속도 예측 시뮬레이터," 등록번호: C-2020-037144 (2020년 10월 20일)
+
+1. 권정민, 차채연, 박형곤, "데이터 상관도를 이용한 장단기 메모리 방식기반 예측 방법," 등록번호: C-2020-037145 (2020년 10월 20일)
+
+1. 권정민, 차채연, 박형곤, "장단기 메모리 방식을 이용한 도로 속도 예측 시뮬레이터," 등록번호: C-2020-037146 (2020년 10월 20일)
+
+1. 권정민, 차채연, 원지수, 박형곤, "V2X (Vehicle-to-Everything)환경에서 LSTM(Long Short-Term Memory) 방식을 이용한 도로 속도 예측 시뮬리에터," 등록번호: C-2020-010742 (2020년 4월 2일)
+
+1. 권정민, 유미선, 김민경, 김세래, 박형곤, "송신 전력에 따른 데이터 전달 가능 모바일 노드 분포 측정 시뮬레이터," 등록번호: C-2019-035663 (2019년 11월 26일)
+
+1. 권정민, 박형곤, "차량 통신 환경에서 속도 데이터를 이용한 전달 가능한 정보량 분석 시뮬레이터," 등록번호: C-2019-035662 (2019년 11월 26일)
+
+1. 권정민, 박형곤, "차량 통신 환경에서 전달 가능한 정보량에 대한 선형 회귀 분석 시뮬레이터," 등록번호: C-2019-035661 (2019년 11월 26일)
+
+1. 권정민, 박형곤, "차량 통신 환경에서 전달 가능한 정보량에 대한 다항 회귀 분석 시뮬레이터," 등록번호: C-2019-035660 (2019년 11월 26일)
+
+1. 권정민, 박형곤, "차량 통신 환경에서 전달 가능한 정보량에 대한 Gradient Boosting(기울기 인상) 회귀 분석 시뮬레이터," 등록번호: C-2019-035659 (2019년 11월 26일)
+
+1. 권정민, 김소연, 금나연, 박형곤, "차량과 인프라 간 무선 통신(V2I: Vehicle-to-infrastructure)환경에서 WAVE (Wireless Access for Vehicle Environment) 통신을 이용한 데이터 전송 시뮬레이터," 등록번호: C-2017-030897 (2017년 11월 30일)
+
+1. 권정민, 김소연, 금나연, 박형곤, "차량과 인프라 간 무선 통신(V2I: Vehicle to Infrastructure) 환경에서 조직네트워크코딩(Systematic Network Coding)을 이용한 고신뢰성 데이터 전송 시뮬레이터," 등록번호: C-2017-030896 (2017년 11월 30일)
+
+1. 권정민, 신새벽, 이유정, 나현지, 정승현, 권민혜, 박형곤, "오류정정을 위한 삼중 보호된 가중 부호화 시뮬레이터," 등록번호: C-2015-033642 (2015년 12월 30일)
+
+1. 권정민, 최소연, 정유연, 정승현, 권민혜, 박형곤, "워터마킹(Watermarking)기법을 기반으로 한 패리티 비트 검사 시뮬레이터," 등록번호: C-2015-033643 (2015년 12월 30일)
+
+1. 권정민, 최윤지, 김아롱, 박현지, 정승현, 권민혜, 박형곤, "링 구조 기반의 인접 비트 연산을 이용한 오류정정부호 시뮬레이터," 등록번호: C-2015-033644 (2015년 12월 30일)
+
+1. 권정민, 박상희, 박정민, 김민주, 정승현, 권민혜, 박형곤, "인접한 비트 사이의 상관성을 이용한 패리티 검사 시뮬레이터," 등록번호: C-2015-033645 (2015년 12월 30일)
+
+1. 권정민, 김은진, 전규리, 오누리, 정승현, 권민혜, 박형곤, "4 비트 패리티와 인벌전 으로 이루어진 오류정정 성능 연구 시뮬레이터," 등록번호: C-2015-030676 (2015년 12월 14일)
+
+1. 권정민, 최윤아, 김지원, 이보경, 정승현, 권민혜, 박형곤, "에러 발생빈도가 높은 네트워크 환경에서의 안정적 데이터 전송을 위한 Parepetition(패리피티션) 시뮬레이터," 등록번호: C-2015-030673 (2015년 12월 14일)
+
+1. 권정민, 황아름, 황유정, 정다은, 정승현, 권민혜, 박형곤, "오류정정을 위한 FX(Flip-XOR, 플립-엑스오아) 시뮬레이터," 등록번호: C-2015-030672 (2015년 12월 14일)
+
+1. 권정민, 서수인, 박민홍, 박하진, 정승현, 권민혜, 박형곤, "통신 채널 열화의 상황에서 오류정정을 위한 3-6 컨볼류션 시뮬레이터," 등록번호: C-2015-030675 (2015년 12월 14일)
+
+1. 권정민, 채솜이, 양화진, 김현주, 정승현, 권민혜, 박형곤, "오류정정을 위한 코드 암호화 기반 디지털 이미지 전송 시뮬레이터," 등록번호: C-2015-030674 (2015년 12월 14일)
+
+1. 권정민, 권민혜, 박형곤, "세 개의 이웃 노드가 연결된 사물인터넷(IoT) 네트워크에서 일반 라우팅을 이용한 데이터 전송 시 요구되는 전송 횟수 계산 시뮬레이터," 등록번호: C-2015-027321 (2015년 11월 18일)
+
+1. 권정민, 권민혜, 박형곤, "세 개의 이웃 노드가 연결된 사물인터넷(IoT) 네트워크에서 네트워크 코딩(Network Coding)을 이용한 데이터 전송 시 요구되는 전송 횟수 계산 시뮬레이터," 등록번호: C-2015-027320 (2015년 11월 18일)
+
+1. 권정민, 권민혜, 박형곤, "드 브루인(De Bruijn) 네트워크에서 일반 라우팅을 이용한 모든 노드가 데이터를 전송하기 위해 요구되는 전송횟수 계산 시뮬레이터," 등록번호: C-2015-027319 (2015년 11월 18일)
+
+1. 권정민, 권민혜, 박형곤, "드 브루인(De Bruijn) 네트워크에서 네트워크 코딩을 이용한 모든 노드가 데이터를 전송하기 위해 요구되는 전송 횟수 계산 시뮬레이터," 등록번호: C-2015-027583 (2015년 11월 19일)
+
+1. 권정민, 권민혜, 박상희, 박형곤, "비교연산 및 대칭성을 이용한 베르누이 행렬(Bernoulli Matrix)의 역행렬 연산 알고리즘," 등록번호: C-2015-026914 (2015년 11월 11일)
+
+1. 권정민, 권민혜, 박상희, 박형곤, "네트워크 코딩 기반의 시스템에서 임의로 설정된 값과 수신된 값 사이의 오차를 이용한 근사적 복호 시뮬레이터," 등록번호: C-2015-026913 (2015년 11월 11일)
+
+1. 권정민, 권민혜, 박상희, 박형곤, "데이터 손실이 있는 통신환경에서 네트워크 코딩기반 패킷 전송 시 수직경로(Perpendicular Path) 설계를 이용한 근사적 복호 시뮬레이터," 등록번호: C-2015-026912 (2015년 11월 11일)
+
+1. 권정민, 박형곤, "네트워크 코딩이 적용된 선형 네트워크의 마코브 체인(Markov Chain)기반 동적 전송량 계산 시뮬레이터," 등록번호: C-2014-028486 (2014년 11월 12일)
+
+1. 권정민, 권민혜, 김순영, 박형곤, "선형 사물인터넷(IoT) 네트워크에서 일반 라우팅을 이용한 모든 서브노드(subnode)가 데이터를 전송하기 위해 요구되는 최소 전송횟수 계산 시뮬레이터," 등록번호: C-2014-023096 (2014년 09월 22일)
+
+1. 권정민, 권민혜, 박형곤, "선형 사물인터넷(IoT) 네트워크에서 네트워크 코딩(Network Coding)을 이용한 모든 서브노드(subnode)가 데이터를 전송하기 위해 요구되는 최소 전송횟수 계산 시뮬레이터," 등록번호: C-2014-023095 (2014년 09월 22일)
