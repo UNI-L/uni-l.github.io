@@ -129,6 +129,11 @@ nav: false
 
 
 <style>
+.home-intro h1 {
+  color: #0a4f87;
+  font-weight: 700;
+}
+  
 .home-footer {
   display: flex;
   justify-content: space-between;
