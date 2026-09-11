@@ -8,7 +8,7 @@ nav_order: 3
 
 ## International Journals
 ---
-1. Jonghoon Park*, Dongyong Choi*, Kabseok Ko, Kuduck Kwon, **Jungmin Kwon**, In-Chul Hwang, and Seungyoung Park, "Batch Bayesian Optimization for Minimizing IPN in RF PLLs," *Journal of Semiconductor Technology and Science*, accepted for publication. (*equal contribution)
+1. Jonghoon Park*, Dongyong Choi*, Kabseok Ko, Kuduck Kwon, **Jungmin Kwon**, In-Chul Hwang, and Seungyoung Park, "Batch Bayesian Optimization for Minimizing IPN in RF PLLs," *Journal of Semiconductor Technology and Science*, vol. 26, no. 5, pp. 327-339, Oct. 2026. (*equal contribution)
 
 2. **Jungmin Kwon** and Hyunggon Park, "[Efficient and Resilient Packet Recovery for Federated Learning via Approximation](https://ieeexplore.ieee.org/document/11267083),"  
    *IEEE Transactions on Mobile Computing*, vol. 25, no. 5, pp. 6413–6428, May 2026. [[Media 1](https://www.dailysmart.co.kr/news/articleView.html?idxno=117088)] [[Media 2](https://www.lecturernews.com/news/articleView.html?idxno=192028)] [[Media 3](https://www.popcornnews.net/news/articleView.html?idxno=104205)]
