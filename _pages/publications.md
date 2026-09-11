@@ -21,6 +21,11 @@ nav_order: 3
 
 ## International Conferences
 ---
+
+1. Suhyun Han and Jungmin Kwon, "Contribution-Aware LoRA Rank Allocation for Federated LLM Fine-Tuning," *International Conference on ICT Convergence (ICTC 2026)*, Oct. 2026.
+  
+1. Dahae Lee and Jungmin Kwon, "Integrated Detection and Latency-Aware XGBoost Intrusion Detection for ROS2," *International Conference on ICT Convergence (ICTC 2026)*, Oct. 2026.
+
 1. Dayoung Choi, Siyoun Park, Jungmin Kwon, and Hyunggon Park, "Few Features are Enough: Communication-Efficient AI-RAN," *Conference on Neural Information Processing Systems (NeurIPS 2025), AI and ML for Next-Generation Wireless Communications and Networking (AI4NextG)*, Dec. 2025.
 
 1. Dayoung Choi, Siyoun Park, Jungmin Kwon, and Hyunggon Park, "Interpretable KPI Analytics for Resource-Efficient AI-RAN Intelligence," *Conference on Neural Information Processing Systems (NeurIPS 2025), 20th Women in Machine Learning Workshop (WiML 2025)*, Dec. 2025.
