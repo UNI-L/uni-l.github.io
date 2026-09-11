@@ -31,57 +31,49 @@ nav: false
 
 <hr>
 
-
-<section>
+<section class="research-section">
   <h2>Research Areas</h2>
 
   <div class="research-grid">
 
     <div class="research-card">
-      <h4>Federated & Collaborative AI</h4>
-      <p>
-        Distributed and collaborative learning across heterogeneous networked systems.
-      </p>
+      <div class="research-icon">●</div>
+      <h4>Federated AI</h4>
+      <p>Collaborative learning across distributed systems.</p>
     </div>
 
     <div class="research-card">
+      <div class="research-icon">✦</div>
       <h4>Agentic AI</h4>
-      <p>
-        Autonomous and collaborative AI agents for intelligent decision-making.
-      </p>
+      <p>Autonomous and collaborative AI agents.</p>
     </div>
 
     <div class="research-card">
-      <h4>AI-Native Network Intelligence</h4>
-      <p>
-        Data-driven learning and intelligence for network understanding and control.
-      </p>
+      <div class="research-icon">⌁</div>
+      <h4>Network Intelligence</h4>
+      <p>AI-driven network understanding and control.</p>
     </div>
 
     <div class="research-card">
-      <h4>AI-RAN & 6G Networks</h4>
-      <p>
-        AI-native architectures and intelligent control for next-generation networks.
-      </p>
+      <div class="research-icon">⌁</div>
+      <h4>AI-RAN & 6G</h4>
+      <p>AI-native intelligence for future networks.</p>
     </div>
 
     <div class="research-card">
-      <h4>Network Foundation Models</h4>
-      <p>
-        Foundation models for network understanding, reasoning, and optimization.
-      </p>
+      <div class="research-icon">◈</div>
+      <h4>Foundation Models</h4>
+      <p>Foundation models for network reasoning.</p>
     </div>
 
     <div class="research-card">
-      <h4>AI-based Anomaly Detection</h4>
-      <p>
-        Intelligent detection and analysis of anomalous behaviors in networked systems.
-      </p>
+      <div class="research-icon">✓</div>
+      <h4>Anomaly Detection</h4>
+      <p>Intelligent detection of abnormal behaviors.</p>
     </div>
 
   </div>
 </section>
-
 
 <hr>
 
