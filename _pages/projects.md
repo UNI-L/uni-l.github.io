@@ -23,6 +23,7 @@ nav_order: 4
 
 - **Agentic AI 및 연합학습 기반 ADMET/PK 통합 예측 플랫폼 개발**
   - Title: Integrated ADMET/PK Prediction Platform Powered by Agentic AI and Federated Learning
+  - Korea Machine Learning Ledger Orchestration for Drug Discovery Project (K-Melloddy)
   - Health & Welfare and Ministry of Science and ICT
   - 2026.07.01 – 2028.02.28
  
