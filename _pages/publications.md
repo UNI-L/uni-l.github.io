@@ -22,33 +22,19 @@ nav_order: 3
 
 ## International Conferences
 ---
-1. Dayoung Choi, Siyoun Park, **Jungmin Kwon**, and Hyunggon Park,  
-   "Few Features are Enough: Communication-Efficient AI-RAN,"  
-   *Conference on Neural Information Processing Systems (NeurIPS 2025), AI and ML for Next-Generation Wireless Communications and Networking (AI4NextG)*, Dec. 2025.
+1. Dayoung Choi, Siyoun Park, **Jungmin Kwon**, and Hyunggon Park, "Few Features are Enough: Communication-Efficient AI-RAN," *Conference on Neural Information Processing Systems (NeurIPS 2025), AI and ML for Next-Generation Wireless Communications and Networking (AI4NextG)*, Dec. 2025.
 
-2. Dayoung Choi, Siyoun Park, **Jungmin Kwon**, and Hyunggon Park,  
-   "Interpretable KPI Analytics for Resource-Efficient AI-RAN Intelligence,"  
-   *Conference on Neural Information Processing Systems (NeurIPS 2025), 20th Women in Machine Learning Workshop (WiML 2025)*, Dec. 2025.
+2. Dayoung Choi, Siyoun Park, **Jungmin Kwon**, and Hyunggon Park, "Interpretable KPI Analytics for Resource-Efficient AI-RAN Intelligence," *Conference on Neural Information Processing Systems (NeurIPS 2025), 20th Women in Machine Learning Workshop (WiML 2025)*, Dec. 2025.
 
-3. **Jungmin Kwon** and Hyunggon Park,  
-   "Comparative Analysis of Network Coding Algorithms in Centralized Federated Learning over Unreliable Networks,"  
-   *International Conference on Ubiquitous and Future Networks (ICUFN 2025)*, Jul. 2025.
+3. **Jungmin Kwon** and Hyunggon Park, "Comparative Analysis of Network Coding Algorithms in Centralized Federated Learning over Unreliable Networks," *International Conference on Ubiquitous and Future Networks (ICUFN 2025)*, Jul. 2025.
 
-4. **Jungmin Kwon** and Hyunggon Park,  
-   "Missing Traffic Data Imputation Using Multi-Trajectory Parameter Transferred LSTM,"  
-   *Conference on Neural Information Processing Systems (NeurIPS 2022), Machine Learning for Autonomous Driving Workshop*, Dec. 2022.
+4. **Jungmin Kwon** and Hyunggon Park, "Missing Traffic Data Imputation Using Multi-Trajectory Parameter Transferred LSTM," *Conference on Neural Information Processing Systems (NeurIPS 2022), Machine Learning for Autonomous Driving Workshop*, Dec. 2022.
 
-5. **Jungmin Kwon** and Hyunggon Park,  
-   "Efficient Low-rank Federated Learning based on Singular Value Decomposition,"  
-   *The ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc 2022)*, pp. 285–286, Oct. 2022.
+5. **Jungmin Kwon** and Hyunggon Park, "Efficient Low-rank Federated Learning based on Singular Value Decomposition," *The ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc 2022)*, pp. 285–286, Oct. 2022.
 
-6. **Jungmin Kwon**, Chaeyeon Cha, and Hyunggon Park,  
-   "Multilayered LSTM with Parameter Transfer for Vehicle Speed Data Imputation,"  
-   *IEEE International Symposium on Circuits and Systems (IEEE ISCAS 2021)*, May 2021.
+6. **Jungmin Kwon**, Chaeyeon Cha, and Hyunggon Park, "Multilayered LSTM with Parameter Transfer for Vehicle Speed Data Imputation," *IEEE International Symposium on Circuits and Systems (IEEE ISCAS 2021)*, May 2021.
 
-7. **Jungmin Kwon**, Chaeyeon Cha, and Hyunggon Park,  
-   "Bidirectional Imputation of Spatio-Temporal Data based on LSTM with Parameter Transfer,"  
-   *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2021)*, Apr. 2021.
+7. **Jungmin Kwon**, Chaeyeon Cha, and Hyunggon Park, "Bidirectional Imputation of Spatio-Temporal Data based on LSTM with Parameter Transfer," *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2021)*, Apr. 2021.
 
 8. **Jungmin Kwon**, Chaeyeon Cha, and Hyunggon Park,  
    "Vehicle Speed Data Imputation based on Parameter Transferred LSTM,"  
