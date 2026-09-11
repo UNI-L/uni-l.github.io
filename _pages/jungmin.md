@@ -35,10 +35,7 @@ She was a visiting researcher at École Polytechnique Fédérale de Lausanne (EP
 United Kingdom, where she worked on learning and analysis of medical data. 
 She received her Ph.D., M.S., and B.S. degrees from Ewha Womans University, Seoul, Republic of Korea.
 
-Prof. Kwon was selected for the Sejong Science Fellowship funded by the Ministry of Science and ICT 
-and the National Research Foundation of Korea. She has also received several awards and honors, 
-including Best Paper Awards from the Korean Institute of Communications and Information Sciences (KICS),
-the Qualcomm Innovation Award, and the WISET-KICS Young Female Researcher Award.
+Prof. Kwon was selected for the Sejong Science Fellowship funded by the Ministry of Science and ICT and the National Research Foundation of Korea. She was also selected as a participant in the 17th HOPE Meeting, where she had the opportunity to engage with Nobel Laureates and young researchers from the Asia-Pacific region. She has received several awards and honors, including Best Paper Awards from the Korean Institute of Communications and Information Sciences (KICS), the Qualcomm Innovation Award, and the WISET-KICS Young Female Researcher Award.
 
 Her research interests lie at the intersection of artificial intelligence, distributed learning, 
 and next-generation communication networks, with a focus on federated and collaborative AI, agentic AI, AI-native network intelligence, AI-RAN and 6G networks, and network foundation models.
