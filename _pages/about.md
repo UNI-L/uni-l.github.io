@@ -30,51 +30,52 @@ nav: false
 
 
 <hr>
-
 <section class="research-section">
   <h2>Research Areas</h2>
 
-  <div class="research-grid">
+  <h3 class="research-group-title">AI for Networked Systems</h3>
+
+  <div class="research-grid network-grid">
 
     <div class="research-card">
-      <div class="research-icon">●</div>
-      <h4>Federated AI</h4>
-      <p>Collaborative learning across distributed systems.</p>
-    </div>
-
-    <div class="research-card">
-      <div class="research-icon">✦</div>
-      <h4>Agentic AI</h4>
-      <p>Autonomous and collaborative AI agents.</p>
-    </div>
-
-    <div class="research-card">
-      <div class="research-icon">⌁</div>
       <h4>Network Intelligence</h4>
-      <p>AI-driven network understanding and control.</p>
+      <p>AI-driven network modeling, optimization, and control.</p>
     </div>
 
     <div class="research-card">
-      <div class="research-icon">⌁</div>
       <h4>AI-RAN & 6G</h4>
-      <p>AI-native intelligence for future networks.</p>
+      <p>AI-native intelligence for next-generation networks.</p>
+    </div>
+
+  </div>
+
+
+  <h3 class="research-group-title">Learning & Data Intelligence</h3>
+
+  <div class="research-grid learning-grid">
+
+    <div class="research-card">
+      <h4>Federated AI</h4>
+      <p>Distributed learning across heterogeneous systems.</p>
     </div>
 
     <div class="research-card">
-      <div class="research-icon">◈</div>
-      <h4>Foundation Models</h4>
-      <p>Foundation models for network reasoning.</p>
+      <h4>Agentic AI</h4>
+      <p>Autonomous reasoning and multi-agent collaboration.</p>
     </div>
 
     <div class="research-card">
-      <div class="research-icon">✓</div>
+      <h4>Time-Series Analysis</h4>
+      <p>Learning and analysis of temporal and sequential data.</p>
+    </div>
+
+    <div class="research-card">
       <h4>Anomaly Detection</h4>
-      <p>Intelligent detection of abnormal behaviors.</p>
+      <p>Data-driven detection and analysis of abnormal behaviors.</p>
     </div>
 
   </div>
 </section>
-
 <hr>
 
 
@@ -195,71 +196,70 @@ nav: false
   font-weight: 400;
   color: #5f6f85;
 }
-.research-section {
-  margin-top: 35px;
-  margin-bottom: 40px;
+
+
+  .research-section {
+  margin-top: 40px;
+  margin-bottom: 45px;
 }
 
 .research-section h2 {
-  margin-bottom: 24px;
+  margin-bottom: 28px;
+}
+
+.research-group-title {
+  color: #003b70;
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-top: 28px;
+  margin-bottom: 14px;
+  padding-bottom: 7px;
+  border-bottom: 2px solid #dce8f3;
 }
 
 .research-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 18px;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.network-grid {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.learning-grid {
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .research-card {
   background: #f7fbff;
   border: 1px solid #dce8f3;
-  border-radius: 12px;
-  padding: 22px;
-  min-height: 150px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.research-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 18px rgba(0, 60, 110, 0.08);
-}
-
-.research-icon {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background: #e8f2fb;
-  color: #0a4f87;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.15rem;
-  font-weight: 700;
-  margin-bottom: 12px;
+  border-radius: 10px;
+  padding: 18px 20px;
 }
 
 .research-card h4 {
-  margin: 0 0 7px 0;
   color: #0a4f87;
-  font-size: 1.05rem;
+  font-size: 1rem;
   font-weight: 600;
+  margin: 0 0 7px 0;
 }
 
 .research-card p {
-  margin: 0;
   color: #647587;
   font-size: 0.9rem;
   line-height: 1.45;
+  margin: 0;
 }
 
-@media (max-width: 900px) {
-  .research-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
+.research-card:hover {
+  border-color: #9fc3df;
+  box-shadow: 0 4px 14px rgba(0, 59, 112, 0.07);
 }
 
 @media (max-width: 650px) {
-  .research-grid {
+  .network-grid,
+  .learning-grid {
     grid-template-columns: 1fr;
   }
 }
@@ -278,22 +278,6 @@ nav: false
   padding-top: 10px;
   font-size: 0.95rem;
   line-height: 1.6;
-}
-
-@media (max-width: 900px) {
-  .research-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 650px) {
-  .research-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .home-footer {
-    flex-direction: column;
-  }
 }
 
 .post-header {
