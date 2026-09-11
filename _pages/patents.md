@@ -3,7 +3,7 @@ layout: page
 title: Patents
 permalink: /patents/
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ## International Registered Patents
