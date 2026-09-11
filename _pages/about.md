@@ -120,22 +120,58 @@ nav: false
 
 <hr>
 
-
 <footer class="home-footer">
-  <div>
-    <strong>UNI.L — Ultimate Network Intelligence Lab.</strong>
+
+  <div class="footer-logo">
+    <img src="/assets/img/unil_image.png" alt="UNI.L">
   </div>
 
-  <div>
+  <div class="footer-info">
     Department of Electrical and Electronic Engineering<br>
     Kangwon National University<br>
     Engineering Building 5, Room 514-2<br>
     Chuncheon, Republic of Korea
   </div>
+
 </footer>
 
 
 <style>
+.home-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  margin-top: 35px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.footer-logo img {
+  width: 180px;
+  height: auto;
+  display: block;
+}
+
+.footer-info {
+  text-align: left;
+}
+
+@media (max-width: 650px) {
+  .home-footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .footer-logo img {
+    width: 160px;
+  }
+}
+
+
+  
 .unil-banner {
   width: 100%;
   margin: 10px 0 45px 0;
@@ -220,5 +256,9 @@ nav: false
   .home-footer {
     flex-direction: column;
   }
+}
+
+.post-header {
+  display: none;
 }
 </style>
