@@ -87,6 +87,7 @@ Ewha Womans University, Feb. 2015
 
 ## Honors & Awards
 
+- **Selected Participant, 17th HOPE Meeting with Nobel Laureates**, Japan Society for the Promotion of Science (JSPS), 2026
 - **Sejong Science Fellowship**, National Research Foundation of Korea (NRF), 2025
 - **Best Paper Award**, Korean Institute of Communications and Information Sciences (KICS), Nov. 2024
 - **Qualcomm Innovation Award**, Qualcomm Inc., Jun. 2017
