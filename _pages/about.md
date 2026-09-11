@@ -86,7 +86,7 @@ nav: false
 
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-        {% for item in news limit:5 %}
+        {% for item in news limit:3 %}
           <tr>
             <th scope="row" style="width: 130px;">
               {{ item.date | date: "%b %d, %Y" }}
