@@ -6,41 +6,27 @@ nav: true
 nav_order: 4
 ---
 
+
 ## International Registered Patents
 ---
-1. **Jungmin Kwon**, Hyunggon Park,  
-   “Method and Device for Data Transmission in V2I Network,”  
-   US Patent, filed Aug. 25, 2020 (Application No. 17/002,301),  
-   issued Jun. 14, 2022 (Patent No. US 11363432).
 
-2. **Jungmin Kwon**, Hyunggon Park,  
-   “Method and Apparatus for Network Encoding based on Low-Complexity Algorithms for Network Coding using Matrix Decomposition,”  
-   US Patent, filed Apr. 19, 2018 (Application No. US 15/957689),  
-   issued Dec. 1, 2020 (Patent No. US 10855817).
+1. Jungmin Kwon, Hyunggon Park, “Method and Device for Data Transmission in V2I Network,” US Patent, filed Aug. 25, 2020 (Application No. 17/002,301), issued Jun. 14, 2022 (Patent No. US 11363432).
 
-3. **Jungmin Kwon**, Hyunggon Park, Minhae Kwon, Soonyoung Kim, Minji Lee, Yeseul Jo,  
-   “Method For Propagating Network Management Data for Energy-Efficient IoT Network Management and Energy-Efficient IoT Node Apparatus,”  
-   US Patent, filed Jun. 24, 2015 (Application No. US 14/748334),  
-   issued Oct. 17, 2017 (Patent No. US 9794122).
+1. Jungmin Kwon, Hyunggon Park, “Method and Apparatus for Network Encoding based on Low-Complexity Algorithms for Network Coding using Matrix Decomposition,” US Patent, filed Apr. 19, 2018 (Application No. US 15/957689), issued Dec. 1, 2020 (Patent No. US 10855817).
+
+1. Jungmin Kwon, Hyunggon Park, Minhae Kwon, Soonyoung Kim, Minji Lee, Yeseul Jo, “Method For Propagating Network Management Data for Energy-Efficient IoT Network Management and Energy-Efficient IoT Node Apparatus,” US Patent, filed Jun. 24, 2015 (Application No. US 14/748334), issued Oct. 17, 2017 (Patent No. US 9794122).
 
 
 ## International Patent Applications
 ---
-1. **Jungmin Kwon**, Chaeyeon Cha, Hyunggon Park,  
-   “Lost Data Recovery Method and Apparatus using Parameter Transfer LSTM,”  
-   PCT, Oct. 21, 2021 (Application No. PCT/KR2021/014824).
 
-2. **Jungmin Kwon**, Hyunggon Park,  
-   “Reliable Data Dissemination Strategy based on Systematic Network Coding in V2I Networks,”  
-   US Provisional Application, Nov. 25, 2019 (Application No. 62/939,752).
+1. Jungmin Kwon, Chaeyeon Cha, Hyunggon Park, “Lost Data Recovery Method and Apparatus using Parameter Transfer LSTM,” PCT, Oct. 21, 2021 (Application No. PCT/KR2021/014824).
 
-3. **Jungmin Kwon**, Hyunggon Park,  
-   “Efficient and Reliable Data Dissemination based on Systematic Network Coding in V2I Networks,”  
-   US Provisional Application, Nov. 25, 2019 (Application No. 62/939,750).
+1. Jungmin Kwon, Hyunggon Park, “Reliable Data Dissemination Strategy based on Systematic Network Coding in V2I Networks,” US Provisional Application, Nov. 25, 2019 (Application No. 62/939,752).
 
-4. **Jungmin Kwon**, Minhae Kwon, Hyunggon Park,  
-   “Sensor Node and Data Transmission Method of Sensor Node, Sink Node and Data Transmission Method of Sink Node,”  
-   PCT, Mar. 13, 2015 (Application No. PCT/KR2015/002434).
+1. Jungmin Kwon, Hyunggon Park, “Efficient and Reliable Data Dissemination based on Systematic Network Coding in V2I Networks,” US Provisional Application, Nov. 25, 2019 (Application No. 62/939,750).
+
+1. Jungmin Kwon, Minhae Kwon, Hyunggon Park, “Sensor Node and Data Transmission Method of Sensor Node, Sink Node and Data Transmission Method of Sink Node,” PCT, Mar. 13, 2015 (Application No. PCT/KR2015/002434).
 
 
 ## Domestic Registered Patents
