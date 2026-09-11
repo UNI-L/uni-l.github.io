@@ -73,3 +73,22 @@ nav_order: 6
   - Kangwon National University
 
   
+### Fall 2023
+
+- **Communication lab.**
+  - 통신공학실험 (분반 1, 분반 2)
+  - Undergraduate Course
+  - Department of Electronic and Electrical Engineering
+  - Ewha Womans University
+
+
+### Fall 2020
+
+- **Communication lab.**
+  - 통신공학실험 (분반 1, 분반 2)
+  - Undergraduate Course
+  - Department of Electronic and Electrical Engineering
+  - Ewha Womans University
+
+
+  
