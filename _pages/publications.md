@@ -8,26 +8,16 @@ nav_order: 3
 
 ## International Journals
 ---
-1. Jonghoon Park*, Dongyong Choi*, Kabseok Ko, Kuduck Kwon, **Jungmin Kwon**, In-Chul Hwang, and Seungyoung Park,  
-   "Batch Bayesian Optimization for Minimizing IPN in RF PLLs,"  
-   *Journal of Semiconductor Technology and Science*, accepted for publication.  
-   (*equal contribution)
+1. Jonghoon Park*, Dongyong Choi*, Kabseok Ko, Kuduck Kwon, **Jungmin Kwon**, In-Chul Hwang, and Seungyoung Park, "Batch Bayesian Optimization for Minimizing IPN in RF PLLs," *Journal of Semiconductor Technology and Science*, accepted for publication. (*equal contribution)
 
-2. **Jungmin Kwon** and Hyunggon Park,  
-   "[Efficient and Resilient Packet Recovery for Federated Learning via Approximation](https://ieeexplore.ieee.org/),"  
-   *IEEE Transactions on Mobile Computing*, vol. 25, no. 5, pp. 6413–6428, May 2026.
+2. **Jungmin Kwon** and Hyunggon Park, "[Efficient and Resilient Packet Recovery for Federated Learning via Approximation](https://ieeexplore.ieee.org/document/11267083),"  
+   *IEEE Transactions on Mobile Computing*, vol. 25, no. 5, pp. 6413–6428, May 2026. [[Media 1](https://www.dailysmart.co.kr/news/articleView.html?idxno=117088)] [[Media 2](https://www.lecturernews.com/news/articleView.html?idxno=192028)] [[Media 3](https://www.popcornnews.net/news/articleView.html?idxno=104205)]
 
-3. **Jungmin Kwon**, Sujin Ahn, Hyunggon Park, and Minhae Kwon,  
-   "Stochastic Approximate Inference of Latent Information in Epidemic Model: A Data-Driven Approach,"  
-   *Signal Processing*, vol. 232, 109919, Jul. 2025.
+3. **Jungmin Kwon**, Sujin Ahn, Hyunggon Park, and Minhae Kwon, "[Stochastic Approximate Inference of Latent Information in Epidemic Model: A Data-Driven Approach](https://www.sciencedirect.com/science/article/pii/S0165168425000349)," *Signal Processing*, vol. 232, 109919, Jul. 2025.
 
-4. **Jungmin Kwon** and Hyunggon Park,  
-   "[Parameter Transferred Irreducible LSTM for Traffic Data Imputation](https://ieeexplore.ieee.org/document/10516297),"  
-   *IEEE Sensors Journal*, vol. 24, no. 14, pp. 22178–22188, Jul. 2024.
+4. **Jungmin Kwon** and Hyunggon Park, "[Parameter Transferred Irreducible LSTM for Traffic Data Imputation](https://ieeexplore.ieee.org/document/10516297)," *IEEE Sensors Journal*, vol. 24, no. 14, pp. 22178–22188, Jul. 2024.
 
-5. **Jungmin Kwon** and Hyunggon Park,  
-   "Data Dissemination Framework Using Low-Rank Approximation in Edge Networks,"  
-   *IEEE Access*, vol. 12, pp. 1266–1279, Jan. 2024.
+5. **Jungmin Kwon** and Hyunggon Park, "[Data Dissemination Framework Using Low-Rank Approximation in Edge Networks](https://ieeexplore.ieee.org/document/10375502)," *IEEE Access*, vol. 12, pp. 1266–1279, Jan. 2024.
 
 
 ## International Conferences
