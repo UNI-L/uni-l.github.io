@@ -6,7 +6,7 @@ nav: false
 ---
 
 <div class="unil-banner">
-  <img src="/assets/img/banner_image.jpg" alt="UNI.L">
+  <img src="/assets/img/banner_image.png" alt="UNI.L">
 </div>
 
 <section class="home-intro">
