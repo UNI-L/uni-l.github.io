@@ -20,7 +20,7 @@ nav: false
     <p>
       <strong>Email:</strong> jungmin DOT kwon AT kangwon DOT ac DOT kr<br>
       <a href="https://scholar.google.com/citations?user=jkTJ16EAAAAJ&hl=ko&citsig=AIIUsnMfSPmhsT0Cf_HugSQmFK5y">Google Scholar</a> |
-      <a href="https://drive.google.com/file/d/1uDqaEo1nShXUp-pAgUCyTFrfC8_UCLAz/view?usp=drive_link">CV</a>
+      <a href="/assets/pdf/3.CV.pdf" target="_blank">CV</a>
     </p>
   </div>
 
