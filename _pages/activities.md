@@ -89,7 +89,35 @@ nav_order: 7
 }
 </style>
 
-<!-- Activity 1: ICTC 2026 -->
+
+
+
+<!-- Research Group Gathering -->
+<div class="activity-entry">
+
+  <div class="activity-info">
+    <div class="activity-date">OCTOBER 2026</div>
+    <h3 class="activity-title">Research Group Gathering at ICTC 2026</h3>
+    <p class="activity-description">
+      We enjoyed a wonderful evening with members
+      of our collaborating research groups during ICTC 2026,
+      sharing dinner and stargazing together.
+    </p>
+  </div>
+
+  <div class="activity-photos">
+    <img src="{{ '/assets/img/activities/ictc_gathering1.jpg' | relative_url }}" alt="Research group dinner">
+    <img src="{{ '/assets/img/activities/ictc_gathering2.jpg' | relative_url }}" alt="Research group gathering">
+    <img src="{{ '/assets/img/activities/ictc_gathering3.jpg' | relative_url }}" alt="Stargazing together">
+  </div>
+
+</div>
+
+
+
+
+
+<!-- ICTC 2026 -->
 <div class="activity-entry">
 
   <div class="activity-info">
@@ -106,25 +134,6 @@ nav_order: 7
     <img src="{{ '/assets/img/activities/ictc1.jpg' | relative_url }}" alt="ICTC 2026 group photo">
     <img src="{{ '/assets/img/activities/ictc2.jpg' | relative_url }}" alt="ICTC 2026 presentation">
     <img src="{{ '/assets/img/activities/ictc3.jpg' | relative_url }}" alt="ICTC 2026 conference">
-  </div>
-
-</div>
-
-<!-- Activity 2: Lab Gathering -->
-<div class="activity-entry">
-
-  <div class="activity-info">
-    <div class="activity-date">SEPTEMBER 2026</div>
-    <h3 class="activity-title">Lab Gathering</h3>
-    <p class="activity-description">
-      A wonderful time together with our
-      research group members.
-    </p>
-  </div>
-
-  <div class="activity-photos">
-    <img src="{{ '/assets/img/activities/gathering1.jpg' | relative_url }}" alt="Lab gathering 1">
-    <img src="{{ '/assets/img/activities/gathering2.jpg' | relative_url }}" alt="Lab gathering 2">
   </div>
 
 </div>
