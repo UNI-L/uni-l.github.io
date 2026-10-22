@@ -4,12 +4,6 @@ title: Publications
 permalink: /publications/
 nav: true
 nav_order: 3
-dropdown: true
-children:
-  - title: Papers
-    permalink: /publications/
-  - title: Patents
-    permalink: /patents/
 ---
 
 ## International Journals
