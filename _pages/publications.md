@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+<h2>TEST - Publications Tab</h2>
+
 <style>
 .publication-tabs {
   display: flex;
