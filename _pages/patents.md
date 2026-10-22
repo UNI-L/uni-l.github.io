@@ -2,7 +2,8 @@
 layout: page
 title: Patents
 permalink: /patents/
-nav: false
+nav: true
+nav_order: 4
 ---
 
 
