@@ -76,6 +76,52 @@ nav_order: 2
 </div>
 
 
+<div class="member-row">
+  <div class="member-info">
+    <h3>Sungbae Jung</h3>
+    <p>
+      Undergraduate Researcher<br>
+      <strong>Email:</strong> yse6024 AT kangwon DOT ac DOT kr
+    </p>
+  </div>
+</div>
+
+
+<div class="member-row">  
+  <div class="member-info">
+    <h3>Juwon Jung</h3>
+    <p>
+      Undergraduate Researcher<br>
+      <strong>Email:</strong> juana2005 AT kangwon DOT ac DOT kr
+    </p>
+  </div>
+</div>
+
+
+<div class="member-row">  
+  <div class="member-info">
+    <h3>Jaehyun Lee</h3>
+
+    <p>
+      Undergraduate Researcher<br>
+      <strong>Email:</strong> jaehun8282 AT kangwon DOT ac DOT kr
+    </p>
+  </div>
+</div>
+
+
+<div class="member-row">  
+  <div class="member-info">
+    <h3>Junui Cha</h3>
+
+    <p>
+      Undergraduate Researcher<br>
+      <strong>Email:</strong> madubi AT kangwon DOT ac DOT kr
+    </p>
+  </div>
+</div>
+
+
 <h2>Alumni</h2>
 
 <h4>Undergraduate Research Assistants</h4>
