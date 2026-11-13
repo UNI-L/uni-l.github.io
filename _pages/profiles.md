@@ -63,10 +63,9 @@ nav_order: 2
 
 <div class="member-row">
   <img src="/assets/img/jeonguk.jpg" class="member-photo">
-  
+
   <div class="member-info">
     <h3>Jeonguk Ahn</h3>
-
     <p>
       Undergraduate Researcher<br>
       <strong>Email:</strong> nmn2580 AT kangwon DOT ac DOT kr<br>
