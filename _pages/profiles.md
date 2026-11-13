@@ -98,10 +98,10 @@ nav_order: 2
 </div>
 
 
+
 <div class="member-row">  
   <div class="member-info">
     <h3>Jaehyun Lee</h3>
-
     <p>
       Undergraduate Researcher<br>
       <strong>Email:</strong> jaehun8282 AT kangwon DOT ac DOT kr
@@ -110,10 +110,10 @@ nav_order: 2
 </div>
 
 
+
 <div class="member-row">  
   <div class="member-info">
     <h3>Junui Cha</h3>
-
     <p>
       Undergraduate Researcher<br>
       <strong>Email:</strong> madubi AT kangwon DOT ac DOT kr
